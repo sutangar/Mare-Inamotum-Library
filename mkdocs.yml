@@ -22,4 +22,4 @@ extra_javascript:
 
 plugins:
 
-copyright: Copyright &copy; 2023 - 2024 by Sutang
+copyright: [![Netlify Status](https://api.netlify.com/api/v1/badges/54c4f605-ae77-4ced-9af7-ae5183355722/deploy-status)](https://app.netlify.com/sites/zhihaidocs/deploys)
